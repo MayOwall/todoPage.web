@@ -23,7 +23,7 @@ function newLoginHandler(event) {
 
 //greetings 호출 함수
 function paintGreetings(username) {
-    greetings.innerText = `Hello, ${username}!`;
+    greetings.innerText = `Hello, "${username}"`;
     greetings.classList.remove(HiddenClassName);
 }
 

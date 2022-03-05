@@ -32,5 +32,5 @@ const quote = document.getElementById("quote");
 const quoteSpeaker = document.getElementById("quote-speaker");
 const randomNum = (Math.floor(Math.random() * quoteList.length));
 
-quote.innerText = quoteList[randomNum].quote;
-quoteSpeaker.innerText = quoteList[randomNum].speaker;
+quote.innerText = `" ${quoteList[randomNum].quote} "`;
+quoteSpeaker.innerText = `- ${quoteList[randomNum].speaker} -`;

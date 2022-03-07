@@ -13,6 +13,8 @@ function stampClickHandler(event) {
       if(couponEmpty) {
         localStorage.setItem('stamp-count', 0);
         location.reload();
+      } else {
+        return;
       };
     } else if(clickedButton.classList.contains('stamp-background') === false){
       console.log(clickedButton.classList.contains('stamp-background'));

@@ -271,7 +271,7 @@ article {
                     box-shadow: 0.2rem 0.2rem 0.2rem gray inset;
                 }
                 #stamp-box .stamp-background {
-                    background-image: url('/IMG/ddaBong.png');
+                    background-image: url('./IMG/ddaBong.png');
                     pointer-events: none;
                 }
         #coupon-block .explains {

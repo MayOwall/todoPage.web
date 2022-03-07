@@ -16,7 +16,7 @@ if(localStorage.getItem(TODOLIST_KEY) !== null) {
 //화면상 todo 더하기
 function todoAdder(todo) {
     const button = document.createElement("button");
-    button.innerText = '✔️';
+    button.innerText = '';
     button.addEventListener("click", todoDeleter);
     button.addEventListener("click", todoLocalDeleter);
 

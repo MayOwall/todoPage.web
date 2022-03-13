@@ -1,31 +1,31 @@
 const quoteList = [
     {
-        quote : '나는 나를 위한 하루를 보낸다.',
-        speaker : '김토끼1'
+        quote : '오래도록 전화벨이 울리지 않으면 고장을 의심하게 만드는 것, 그것이 사랑이다.',
+        speaker : '양귀자'
     },
     {
-        quote : '나는 서두르지 않고 내가 할 일을 해낸다.',
-        speaker : '김토끼2'
+        quote : '운명은 용감한 자를 사랑한다.',
+        speaker : '버질'
     },
     {
-        quote : '나는 기죽지 않는다.',
-        speaker : '김토끼3'
+        quote : '당신의 행복은 무엇이 당신의 영혼을 노래하게 하는가에 따라 결정된다.',
+        speaker : '낸시 설리번'
     },
     {
-        quote : '나는 나를 위해 가장 좋은 선택을 한다.',
-        speaker : '김토끼4'
+        quote : '사막이 아름다운 것은 어딘가에 샘이 숨겨져 있기 때문이다',
+        speaker : '생택쥐베리'
     },
     {
-        quote : '나는 끝내 해낸다.',
-        speaker : '김토끼5'
+        quote : '재산을 잃은 사람은 많이 잃은 것이고, 친구를 잃은 사람은 더많이 잃은 것이며, 용기를 잃은 사람은 모든것을 잃은 것이다.',
+        speaker : '세르반테스'
     },
     {
-        quote : '나는 행복해.',
-        speaker : '김토끼6'
+        quote : '가진 것에 감사하나, 만족하지는 말자.',
+        speaker : '이병형'
     },
     {
-        quote : '나는 잘된다, 믿어!!',
-        speaker : '김토끼7'
+        quote : '절대 어제를 후회하지 마라 . 인생은 오늘의 나 안에 있고 내일은 스스로 만드는 것이다',
+        speaker : 'L.론허바드'
     },
 ];
 const quote = document.getElementById("quote");

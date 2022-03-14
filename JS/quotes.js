@@ -27,6 +27,10 @@ const quoteList = [
         quote : '절대 어제를 후회하지 마라 . 인생은 오늘의 나 안에 있고 내일은 스스로 만드는 것이다',
         speaker : 'L.론허바드'
     },
+    {
+        quote : '컴퓨터가 이해하는 코드는 어떤 바보도 쓸 수 있다. 하지만 훌륭한 프로그래머는 사람이 이해할 수 있는 코드를 쓴다.',
+        speaker : '마틴 파울러 (Martin Fowler)',
+    },
 ];
 const quote = document.getElementById("quote");
 const quoteSpeaker = document.getElementById("quote-speaker");
